@@ -1,6 +1,6 @@
 # Electrum
 
-<p align="center">O projeto electrum foi criando no curso de sass para explicar e ensinar as funções do sass e a sintaxe de um projeto simples.</p>
+<p align="center">O projeto electrum foi criando no curso de sass para explicar e ensinar as funções do sass e a sintaxe de um projeto avançado e grande.</p>
 
 <br>
 <hr>
@@ -22,10 +22,10 @@
 ### Rodando o Projeto
 ```bash
 # Clone o repositório
-$ git clone https://github.com/MaritoAmbrosio/projeto_agency.git
+$ git clone https://github.com/MaritoAmbrosio/projeto_electrum.git
 
 # Acessa a pasta do projeto no terminal/cmd
-$ cd projeto_agency
+$ cd projeto_electrum
 
 # Abra o VSC
 $ code .
